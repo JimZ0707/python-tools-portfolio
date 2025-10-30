@@ -2,7 +2,7 @@
 
 ![Python Tools Thumbnail](https://github.com/JimZ0707/python-tools-portfolio/blob/main/ChatGPT%20Image%20Oct%2030%2C%202025%2C%2012_55_22%20PM.png)
 
-# 🧠 Custom Python Tools & Automation by Zuhdi
+# 🧠 Custom Python Tools & Automation by JimZ
 
 Halo! 👋  
 Saya Zuhdi, seorang *freelancer Python developer* yang berfokus pada pembuatan **tools otomatisasi**, **analisis data sederhana**, dan **network utilities**.  
@@ -64,7 +64,7 @@ Saya sedang mengembangkan karier sebagai **freelancer Python dan Cybersecurity E
 bertujuan membantu pengguna individu maupun bisnis kecil membuat tools yang efisien dan mudah digunakan.
 
 🔗 Hubungi saya di Projects.co.id:  
-👉 [Profil Freelancer Zuhdi](https://projects.co.id/public/browse_users/view/USERNAME_KAMU)
+👉 [Profil Freelancer JimZ](https://projects.co.id/public/browse_users/view/JimZPython)
 
 ---
 
