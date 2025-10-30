@@ -1,3 +1,4 @@
+![Thumnail](https://github.com/JimZ0707/python-tools-portfolio/blob/main/ChatGPT%20Image%20Oct%2030%2C%202025%2C%2012_55_22%20PM.png)
 # 🐍 Python Tools Portfolio by Zuhdi
 
 Selamat datang di repositori saya!
